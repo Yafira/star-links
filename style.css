@@ -16,6 +16,7 @@ input {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
+    color: #4b4ccc;
     border: 1px solid #4b4ccc;
     margin-bottom: 4px;
 }
