@@ -1,5 +1,5 @@
 body {
-    background-color: beige;
+    background-color: #f3eee0;
     margin: 0;
     padding: 10px;
     font-family: Arial, Helvetica, sans-serif;
@@ -16,21 +16,25 @@ input {
     width: 100%;
     padding: 10px;
     box-sizing: border-box;
-    border: 1px solid #baa1f5;
+    border: 1px solid #4b4ccc;
     margin-bottom: 4px;
 }
 
 button {
-    background: #baa1f5;
+    background: #4b4ccc;
     color: white;
     padding: 10px 20px;
-    border: 1px solid #baa1f5;
+    border: 2px solid #4b4ccc;
     font-weight: bold;
+}
+
+button:hover {
+    background: #b3baf0;
 }
 
 #delete-btn {
     background: white;
-    color: #baa1f5;
+    color: #4b4ccc;
 }
 
 ul {
@@ -44,5 +48,5 @@ li {
 }
 
 a {
-    color: #baa1f5;
+    color: #4b4ccc;
 }
