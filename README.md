@@ -1,6 +1,6 @@
 # ![img](icon.png) Star Links  
 - A simple chrome extension that saves your links and open tabs 
-- Built with JavaScript
+- Built with HTML, CSS and JavaScript
 
 ---------
 ### JS concepts covered:
