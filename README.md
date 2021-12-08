@@ -5,7 +5,7 @@
 ---------
 ### JS concepts covered:
   - const
-  - addEventListeners
+  - addEventListeners()
   - innerHTML
   - input.value
   - function parameters
